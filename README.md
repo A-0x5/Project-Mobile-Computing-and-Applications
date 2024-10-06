@@ -1,1 +1,1 @@
-##This project is part of the university course "Mobile Computing and Applications," focusing on platform-based development. It has been developed using Android Java, incorporating Firebase for backend services and SQLite for local data storage.
+This project is part of the university course "Mobile Computing and Applications," focusing on platform-based development. It has been developed using Android Java, incorporating Firebase for backend services and SQLite for local data storage.
